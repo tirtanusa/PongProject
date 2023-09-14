@@ -1,4 +1,4 @@
-# SnakeProject
+# PongProject
 This is a project that i create as a completion of day 22 of 100 Days of Code by Angela Yu.
 it's maybe a little different from what Angela Yu code, because i tried to do it myself and im proud of it.
 
